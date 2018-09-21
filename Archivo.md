@@ -35,3 +35,4 @@ Inicializo con el comando (git init) luego configuro el usuario y correo, se cre
 
 # SCRUM MASTER : CARLOS GOMEZ
 
+# 21-09-2018
