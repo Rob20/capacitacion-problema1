@@ -31,3 +31,6 @@ Sirve para aplicar estilos de texto a la web.
 Inicializo con el comando (git init) luego configuro el usuario y correo, se crea el reporsitorio con las llaves SSH y se clona el proyecto
 
 
+
+# SCRUM MASTER : CARLOS GOMEZ
+
