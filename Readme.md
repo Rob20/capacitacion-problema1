@@ -13,3 +13,6 @@ RUN mkdir /app
 COPY . /app
 
 CMD ls, "[app/preguntas.md]"
+
+docker run -d -p "8080:1080" nginx:alpine
+
